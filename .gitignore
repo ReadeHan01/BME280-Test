@@ -1,0 +1,25 @@
+# STM32 build outputs
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.map
+*.bin
+*.hex
+*.list
+objects.list
+makefile
+
+# Eclipse / STM32CubeIDE
+.metadata/
+.settings/
+.recommenders/
+
+# Optional: Uncomment if you don't want to share project settings
+# .cproject
+# .project
+
+# OS
+.DS_Store
+Thumbs.db
